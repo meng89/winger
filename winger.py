@@ -5,6 +5,9 @@ import winreg
 from hooky import Dict
 
 
+__version__ = '0.0.1'
+
+
 ERROR_NO_MORE_ITEMS = 259
 
 
