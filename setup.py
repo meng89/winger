@@ -26,7 +26,7 @@ with open('requirements.txt') as f:
 
 setup(name=NAME,
       # version=winger.__version__,
-      version='0.0.1',
+      version='0.0.2',
       description=DESCRIPTION,
       include_package_data=True,
       author='Chen Meng',
